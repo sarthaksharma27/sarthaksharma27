@@ -1,5 +1,7 @@
+[![MasterHead](https://metaroids.com/wp-content/uploads/2023/02/Midjourney-How-to-Make-Amazing-AI-Images-that-Go-Viral.webp)
 <h1 align="center">Hi 👋, I'm Sarthak sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://daehnhardt.com/images/ai_art/midjourney/robots/code_guru_mj_5_2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksharma27&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksharma27" /> </p>
 
