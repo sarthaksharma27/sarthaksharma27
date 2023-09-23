@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,tailwind,express,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=linux,redis,docker,nginx,postgres,bootstrap,mysql,html,css,vscode,git" />
 </div>
+<br><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaksharma27&show_icons=true&locale=en&layout=compact" alt="sarthaksharma27" /></p>
