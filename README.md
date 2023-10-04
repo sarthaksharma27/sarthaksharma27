@@ -6,9 +6,9 @@
 <img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksharma27&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksharma27" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack and Cloud Computing**
+- 🔭 I’m currently working on **Full stack application**
 
-- 🌱 I’m currently learning **Nodejs and MySQL**
+- 🌱 I’m currently learning **MERN Stack and Typescript**
 
 - 💬 Ask me about **Node.js, React, Typescript, MongoDB Etc.**
 
