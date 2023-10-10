@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,vite,tailwind,express,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,bootstrap,mysql,html,css,,git,graphql" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,bootstrap,mysql,html,css,git,graphql" />
 </div>
 <br><br>
 
