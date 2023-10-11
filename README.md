@@ -5,9 +5,9 @@
 <h3 align="center">A passionate developer from India</h3>
 <br />
 
-| davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;davidoga.hashnode.dev&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| davidoga.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="https://davidoga.vercel.app/"><img src="https://github.com/OgaDavid/OgaDavid/assets/104001201/39d53f34-458f-483d-9f95-d120f2fb4350" alt="Portfolio website" width="400"></a><br />Find my projects here.<br /><br /><a href="https://davidoga.vercel.app/">**Visit**</a> |<img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  />
+|<a href="/"><img src="/" alt="Portfolio website" width="400"></a><br />Find my projects here.<br /><br /><a href="">**Visit**</a> |<img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  />
 
 <br/>
 <br />
