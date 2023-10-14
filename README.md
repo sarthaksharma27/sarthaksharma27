@@ -7,7 +7,7 @@
 
 | sarthaksharma.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="/"><img src="/" alt="Portfolio website" width="400"></a><br />Find my projects here.<br /><br /><a href="">**Visit**</a> |<img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  />
+|<a href="/"><img src="/" alt="Portfolio website" width="400"></a><br />Find my projects here.<br /><br /><a href="">**Visit**</a> |<img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  /> 
 
 <br/>
 <br />
@@ -15,7 +15,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,redux,vite,nextjs,tailwind,express,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,bootstrap,prisma,mysql,html,css,git,redis,graphql" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,bootstrap,prisma,mysql,html,css,git,redis,graphql" /> <img src="https://trpc.io/img/logo.svg" alt="trpc.io Logo" style="height: 45px;">
+
 </div>
 <br><br>
 
