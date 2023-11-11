@@ -14,8 +14,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,redux,vite,nextjs,tailwind,express,mongodb,nginx,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,bootstrap,prisma,mysql,html,css,git,redis" /> <img src="https://trpc.io/img/logo.svg" alt="trpc.io Logo" style="height: 45px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;"> <img src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="Radix Logo" style="height: 45px;"> <img src="https://global.discourse-cdn.com/standard10/uploads/serverless/original/2X/d/dd8ef27232cc4a4f55a74d56aeb0c65e9859fa24.png" alt="Serverless" Logo" style="height: 45px;">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,redux,vite,nextjs,tailwind,express,mongodb,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,docker,bootstrap,prisma,mysql,html,css,git,redis" /> <img src="https://trpc.io/img/logo.svg" alt="trpc.io Logo" style="height: 45px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;"> <img src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="Radix Logo" style="height: 45px;"> <img src="https://v4.mui.com/static/logo.png" alt="Material UI" Logo" style="height: 45px;">
 
 
 
