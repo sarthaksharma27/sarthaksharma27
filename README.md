@@ -5,9 +5,9 @@
 <h3 align="center">A passionate developer from India</h3>
 <br />
 
-| sarthaksharma.vercel.app | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| sarthaksharma Twitter | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 |:-:|:-:|
-|<a href="/"><img src="/" alt="Portfolio website" width="400"></a><br />Find my projects here.<br /><br /><a href="">**Visit**</a> |<img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  /> 
+|<a href="https://twitter.com/sarthaksharma85"><img src="https://deadline.com/wp-content/uploads/2023/07/x-twitter-handle.jpg?w=681&h=383&crop=1" alt="Twitter" height="200"></a><br /><br /><br /><a href="">**Visit**</a> |<img align="right" height="200" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif"  /> 
 
 <br/>
 <br />
