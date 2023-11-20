@@ -30,7 +30,7 @@
 
 - [Multi-tenant-app with Nextjs](https://dev.to/iskurbanov/step-by-step-multi-tenant-app-with-nextjs-2mbc) ✍️
 - [Highest paying jobs in tech](https://scholarshiptrack.org/2021/10/17/the-top-3-most-desired-highest-paying-jobs-in-the-tech-industry-for-2021/) 🛍️
-- [First Job in Tech?](https://medium.com/thedevproject/how-to-find-your-first-job-in-tech-in-2022-43e8a18725b5) 👩‍💻
+- [Find Your First Job in Tech](https://medium.com/thedevproject/how-to-find-your-first-job-in-tech-in-2022-43e8a18725b5) 👩‍💻
 
 <p>
 <a align= "center" href="https://github.com/ruchip16">
