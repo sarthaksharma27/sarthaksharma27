@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on [Best.Tweets](https://github.com/Ruchip16/Best.Tweets) ✍️ -->
 
-- 👯 Open-Source contributor at [Open-Horizon](https://github.com/open-horizon/), [AsyncAPI](https://github.com/asyncapi/glee/pull/342#issuecomment-1403580101) ⭐
+- 👯 Open-Source contributor at [DevLabs](https://github.com/HimanshuNarware/Devlabs/pull/59), [AsyncAPI](https://github.com/asyncapi) ⭐
 
 - 📫 How to reach me **sharma.sarthak222872@gmail.com** 📧
 
@@ -28,15 +28,15 @@
     <img src="https://skillicons.dev/icons?i=linux,docker,bootstrap,prisma,mysql,html,css,git,redis" /> <img src="https://trpc.io/img/logo.svg" alt="trpc.io Logo" style="height: 45px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;"> <img src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="Radix Logo" style="height: 45px;"> 
 <h3 align="left">Read and catch up on content📚</h3>
 
-- [Building online community](https://scholarshiptrack.org/2021/08/23/how-to-build-your-online-community/) ✍️
+- [Multi-tenant-app with Nextjs](https://dev.to/iskurbanov/step-by-step-multi-tenant-app-with-nextjs-2mbc) ✍️
 - [Highest paying jobs in tech](https://scholarshiptrack.org/2021/10/17/the-top-3-most-desired-highest-paying-jobs-in-the-tech-industry-for-2021/) 🛍️
-- [My LFX'22 Mentorship Experience](https://medium.com/@ruchipakhle/lfx22-mentorship-experience-with-open-horizon-1df5f0127122) 👩‍💻
+- [First Job in Tech?](https://medium.com/thedevproject/how-to-find-your-first-job-in-tech-in-2022-43e8a18725b5) 👩‍💻
 
 <p>
 <a align= "center" href="https://github.com/ruchip16">
   <img alt= "stats card" height="300px" width="350" src="https://github-readme-stats.vercel.app/api?username=sarthaksharma27&count_private=true&show_icons=true&theme=aura_dark&hide_rank=false" />
 <!--   <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" /> -->
-<!--   <img align="right" height="300px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni" /> </a> -->
+<!--   <img align="right" height="300px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksharma&theme=omni" /> </a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaksharma27&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="ruchip16" /></a>
 </p>
 
