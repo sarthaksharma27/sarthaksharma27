@@ -11,7 +11,7 @@
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
-Currently looking for my first tech job. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️  Development.
+Currently Working with EnverX. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️  Development.
 
 Joined Github 1+ years ago.
 
