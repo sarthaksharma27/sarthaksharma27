@@ -17,7 +17,7 @@ Currently Working with Backend. I'm a passionate learner who's always willing to
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Javascript, NodeJS and Operating system.
+- 🛠 &nbsp; At the moment working with Javascript, NodeJS and Computer Architecture.
 - 👀 &nbsp; What I want to learn: Networking, WebRTC(should I?)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
