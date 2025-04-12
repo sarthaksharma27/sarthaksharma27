@@ -3,11 +3,12 @@
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaksharma27/)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarthaksharma27/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarthaksharma85)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharma.sarthak222872)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sathaksharma27.bhatvikrant&style=flat-square&color=0088cc)
 
-<img align="right" width="100" alt="" src="assets/rzp.gif" />
+### Glad to see you here! &nbsp; 
 
 Currently Working with Backend. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
@@ -17,11 +18,11 @@ Currently Working with Backend. I'm a passionate learner who's always willing to
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Javascript, NodeJS and Computer Architecture.
-- 👀 &nbsp; What I want to learn: Networking, WebRTC(should I?)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
+- 🛠 &nbsp; At the moment working with Live streaming, NodeJS and Operating system.
+- 👀 &nbsp; What I want to learn: Networking, Low level(should I?)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sarthaksharma27).
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/sarthaksharma85) or sharma.sarthak222872@gmail.com.
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/sarthaksharma85) or sharma.sarthak222872@gmail.com
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
 <!-- - 🚀 &nbsp; I’m currently learning Backend Development. -->
 ### My Absolute Favorites:
