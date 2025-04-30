@@ -8,9 +8,9 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharma.sarthak222872)
 
 
-### Glad to see you here! &nbsp; 
+### About me! &nbsp; 
 
-Currently Working with Backend. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems ✨. 
+Currently working in Backend Development, I'm deeply fascinated by how things work under the hood — from systems to protocols. Give me a problem that interests me, and I’ll keep going until I figure it out. 
 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
@@ -18,9 +18,9 @@ Currently Working with Backend. I'm a passionate learner who's always willing to
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Live streaming, NodeJS and Operating system.
+- 🛠 &nbsp; At the moment working with Mediasoup, NodeJS and Live streaming.
 - 👀 &nbsp; What I want to learn: Networking, Low level(should I?)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sarthaksharma27).
+  <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sarthaksharma27).
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/sarthaksharma85) or sharma.sarthak222872@gmail.com
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
@@ -33,14 +33,7 @@ Currently Working with Backend. I'm a passionate learner who's always willing to
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,cpp,express,mongodb,postgres," /><br> <img src="https://skillicons.dev/icons?i=linux,git,redis" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;">
-
-### Projects and Dev Stuff:
-<details> <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthaksharma27&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksharma27&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </details>
-
-<div align="center">
+<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,cpp,mongodb,postgres," /><br> <img src="https://skillicons.dev/icons?i=linux,git,redis" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;">
 
 ### Let's become friends on [Twitter](https://twitter.com/sarthaksharma85)!
 
