@@ -11,7 +11,6 @@
 ### About me! &nbsp; 
 
 Currently working in Backend Development, I'm deeply fascinated by how things work under the hood — from systems to protocols. Give me a problem that interests me, and I’ll keep going until I figure it out. 
-
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif" />
