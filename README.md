@@ -17,7 +17,7 @@ Currently working in Backend Development, I'm deeply fascinated by how things wo
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Mediasoup, NodeJS and Live streaming.
+- 🛠 &nbsp; At the moment working with AI agents, NodeJS and Live streaming.
 - 👀 &nbsp; What I want to learn: Networking, Low level(should I?)
   <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sarthaksharma27).
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
