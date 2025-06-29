@@ -2,25 +2,24 @@
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaksharma27/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthaksharma27/)
 [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarthaksharma27/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarthaksharma85)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarthaksharma85) -->
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharma.sarthak222872)
 
 
-### About me! &nbsp; 
+### Me, In a Nutshell &nbsp; 
 
-Currently working in Backend Development, I'm deeply fascinated by how things work under the hood — from systems to protocols. Give me a problem that interests me, and I’ll keep going until I figure it out. 
+Currently shipping real products, I'm deeply fascinated by how things work under the hood. I just love solving real problems. Give me a problem that interests me, and I’ll keep going until I figure it out. 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif" />
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with AI agents, NodeJS and Live streaming.
-- 👀 &nbsp; What I want to learn: Networking, Low level(should I?)
-  <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sarthaksharma27).
-- 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
+- 🛠 &nbsp; At the moment working with AI agents and writing production level Backend.
+- 👀 &nbsp; What I want to learn: Deep Learning, LLMs, Transformers, NLP(should I?)
+- 👾 &nbsp; Fun fact: GPT doesn't know anything — it’s just really good at guessing what comes next.
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/sarthaksharma85) or sharma.sarthak222872@gmail.com
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
 <!-- - 🚀 &nbsp; I’m currently learning Backend Development. -->
@@ -28,7 +27,7 @@ Currently working in Backend Development, I'm deeply fascinated by how things wo
 
 - 💻 &nbsp; I love to explore new tech and build cool stuff with it.
 - 📰 &nbsp; Reading tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+<!-- - 🍕 &nbsp; Hackathons, meetups & tech events. -->
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
