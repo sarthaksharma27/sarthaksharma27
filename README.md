@@ -17,7 +17,7 @@ Currently shipping real products, I'm deeply fascinated by how things work under
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with Dev Tools and writing production level Backend.
+- 🛠 &nbsp; At the moment working with machine Learning and writing production level Backend.
 - 👀 &nbsp; What I want to learn: Deep Learning, LLMs, Transformers, NLP(should I?)
 - 👾 &nbsp; Fun fact: GPT doesn't know anything — it’s just really good at guessing what comes next.
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/sarthaksharma85) or sharma.sarthak222872@gmail.com
