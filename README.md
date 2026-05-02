@@ -10,15 +10,15 @@
 
 ### Me, In a Nutshell &nbsp; 
 
-Currently shipping real products, I'm deeply fascinated by how things work under the hood. I just love solving real problems. Give me a problem that interests me, and I’ll keep going until I figure it out. 
+Currently shipping real products, I just love solving real problems. Give me a problem that interests me, and I’ll keep going until I figure it out. 
 [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) 
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/SIuI7syOPvm1HAd5GF/giphy.gif" />
+<img align="right" width="375" alt="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhpaTF6ZW9vMmQ3NDE2anVzYTQwbWFiYWpqMmc3bHhvdnBreTRnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" />
 
  Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment working with machine Learning and writing production level Backend.
-- 👀 &nbsp; What I want to learn: Deep Learning, LLMs, Transformers, NLP(should I?)
+- 🛠 &nbsp; At the moment working with Distributed System and writing production level Backend.
+- 👀 &nbsp; What I want to learn: Database Internals(should I?)
 - 👾 &nbsp; Fun fact: GPT doesn't know anything — it’s just really good at guessing what comes next.
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/sarthaksharma85) or sharma.sarthak222872@gmail.com
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
@@ -31,7 +31,7 @@ Currently shipping real products, I'm deeply fascinated by how things work under
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,mongodb,postgres," /><br> <img src="https://skillicons.dev/icons?i=linux,git,redis,docker" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;"> 
+<div align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,mongodb,postgres," /><br> <img src="https://skillicons.dev/icons?i=linux,git,redis,docker" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.io Logo" style="height: 45px;"> <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC Logo" style="height: 45px;"> 
 
 ### Let's become friends on [Twitter](https://twitter.com/sarthaksharma85)!
 
